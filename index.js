@@ -3,31 +3,31 @@ let movies = [
         name:"falcon and the winter soldier",
         des:
         "God of Mischief and brother to Thor, Loki's tricks and schemes wreak havoc across the realms",
-        image:"images/slider 2.png"
+        image:"./images/slider 2.png"
     },
     {
     name:"Loki",
     des:
     "God of Mischief and brother to Thor, Loki's tricks and schemes wreak havoc across the realms",
-    image:"images/slider 1.png"
+    image:"./images/slider 1.png"
 },
 {
     name:"wanda vision",
     des:
     "God of Mischief and brother to Thor, Loki's tricks and schemes wreak havoc across the realms",
-    image:"images/slider 3.png"
+    image:"./images/slider 3.png"
 },
 {
     name:"raya and the last dragon",
     des:
     "God of Mischief and brother to Thor, Loki's tricks and schemes wreak havoc across the realms",
-    image:"images/slider 4.png"
+    image:"./images/slider 4.png"
 },
 {
     name:"luca",
     des:
     "God of Mischief and brother to Thor, Loki's tricks and schemes wreak havoc across the realms",
-    image:"images/slider 5.png"
+    image:"./images/slider 5.png"
 },
 ];
 
